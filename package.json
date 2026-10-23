@@ -1,0 +1,9 @@
+{
+  "name": "jogoredencao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Menu principal de Redenção, um jogo de investigação noir.",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
